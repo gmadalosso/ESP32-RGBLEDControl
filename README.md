@@ -1,4 +1,4 @@
-# RGB LED Control with ESP32 and MQTT
+# Web App to control RGB LEDs using an ESP32 and a PCA9685 PWM Driver
 
 This is a simple project that shows how to control RGB LEDs using an ESP32 + PCA9685 PWM Driver, a web interface, and MQTT communication via a Mosquitto broker. The ESP32 receives color change commands from a web page and updates the LED colors accordingly.
 
